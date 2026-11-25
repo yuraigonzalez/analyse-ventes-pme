@@ -1,21 +1,40 @@
-date,produit,qte,prix,region
-2026-10-01,Clavier,3,45.0,Nord
-2026-10-02,Souris,5,25.0,Sud
-2026-10-03,Ecran,2,180.0,Est
-2026-10-04,Casque,4,60.0,Ouest
-2026-10-05,Clavier,6,45.0,Sud
-2026-10-06,Webcam,3,55.0,Nord
-2026-10-07,Souris,4,25.0,Est
-2026-10-08,Ecran,1,180.0,Nord
-2026-10-09,Casque,2,60.0,Sud
-2026-10-10,Webcam,5,55.0,Ouest
-2026-10-11,Clavier,2,45.0,Est
-2026-10-12,Souris,7,25.0,Ouest
-2026-10-13,Ecran,3,180.0,Sud
-2026-10-14,Casque,5,60.0,Nord
-2026-10-15,Webcam,2,55.0,Est
-2026-10-16,Clavier,4,45.0,Ouest
-2026-10-17,Souris,3,25.0,Nord
-2026-10-18,Ecran,2,180.0,Ouest
-2026-10-19,Casque,3,60.0,Est
-2026-10-20,Webcam,4,55.0,Sud
+date,produit,prix,qte,region
+2022-01-01,Produit A,10,100,Nord
+2022-01-02,Produit B,15,50,Nord
+2022-01-02,Produit A,10,75,Sud
+2022-01-03,Produit C,20,30,Nord
+2022-01-03,Produit A,10,150,Sud
+2022-01-04,Produit B,15,75,Nord
+2022-01-04,Produit C,20,50,Sud
+2022-01-05,Produit A,10,125,Nord
+2022-01-05,Produit B,15,100,Sud
+2022-01-06,Produit C,20,25,Nord
+2022-01-06,Produit A,10,100,Sud
+2022-01-07,Produit B,15,60,Nord
+2022-01-07,Produit C,20,40,Sud
+2022-01-08,Produit A,10,80,Nord
+2022-01-08,Produit B,15,90,Sud
+2022-01-09,Produit C,20,35,Nord
+2022-01-09,Produit A,10,120,Sud
+2022-01-10,Produit B,15,70,Nord
+2022-01-10,Produit C,20,60,Sud
+2022-01-11,Produit A,10,150,Nord
+2022-01-11,Produit B,15,80,Sud
+2022-01-12,Produit C,20,40,Nord
+2022-01-12,Produit A,10,200,Sud
+2022-01-13,Produit B,15,100,Nord
+2022-01-13,Produit C,20,60,Sud
+2022-01-14,Produit A,10,120,Nord
+2022-01-14,Produit B,15,50,Sud
+2022-01-15,Produit C,20,30,Nord
+2022-01-15,Produit A,10,75,Sud
+2022-01-16,Produit B,15,90,Nord
+2022-01-16,Produit C,20,75,Sud
+2022-01-17,Produit A,10,180,Nord
+2022-01-17,Produit B,15,100,Sud
+2022-01-18,Produit C,20,50,Nord
+2022-01-18,Produit A,10,150,Sud
+2022-01-19,Produit B,15,70,Nord
+2022-01-19,Produit C,20,80,Sud
+2022-01-20,Produit A,10,125,Nord
+2022-01-20,Produit B,15,120,Sud
